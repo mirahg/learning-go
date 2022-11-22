@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-const aConst = 64
+const aConst int = 64
 
 func main() {
 
